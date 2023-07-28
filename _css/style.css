@@ -1,0 +1,18 @@
+table, tr, td, th{
+    border: solid 1px rgb(241, 12, 12);
+}
+tr, td{
+    width: 100px;
+}
+th{
+    color: rgb(247, 11, 11);
+    height: 30px;
+    background-color: aqua(0, 107, 221);
+}
+tr:hover {background-color: rgb(228, 15, 15)}
+table{
+    border-collapse: collapse
+    ;
+}
+
+    
